@@ -1,0 +1,13 @@
+{nbnb chenzixuan nb}
+read x
+if 0 < x then
+    fac := 1
+:=
+:?? 
+read chenzixuan shishabi =1 {nbnbchenzixuan}
+    repeat
+        fac := fac * x
+        x := x - 1 until x = 0
+    write fac
+?
+end
